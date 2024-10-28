@@ -1,3 +1,3 @@
 function myFunction() {
-  "Hello Thuto";
+  document.getElementById("ts").innerHTML = "Hello Thuto";
 }
